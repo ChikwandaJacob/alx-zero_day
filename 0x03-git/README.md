@@ -1,1 +1,1 @@
-This file must be present in all alx projects.
+This file must be present in all alx projects as per alx standard.
