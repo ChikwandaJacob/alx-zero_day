@@ -1,0 +1,1 @@
+This file must be present in all alx projects.
